@@ -1,4 +1,4 @@
-# Hi there, I'm Curtis! 👋
+# 👋 Hi there, I'm Curtis!
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2400ff, #7a00ff);
@@ -11,17 +11,22 @@
 ![Banner](https://raw.githubusercontent.com/khoa083/khoa/main/Khoa.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=800&lines=Hello+there!+👋;Welcome+to+my+GitHub!+🚀;I+love+Data+Science+and+Programming!;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=600&lines=Hello+there!+👋;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+---
 
 ## 🚀 About Me
-- 🌱 I'm currently learning **Data Science & Software Development**
+- 🎓 I'm currently learning **Data Science & Software Development**
 - 💬 Ask me about **C++, Python, Databases, and Data Visualization**
 - ⚡ Fun fact: I love solving complex problems with simple solutions. 🧠
+- 🎶 My favorite song: ["Intentions" by Starfall](https://open.spotify.com/track/your-song-link)
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Curtis&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Curtis&theme=react-dark)
+
+---
 
 ## 🛠 Skills & Tools
 
@@ -39,7 +44,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
 ### 🔧 IDEs & Editors:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,10 +53,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Curtis&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Curtis&theme=react-dark)
-
+---
 
 ## 📫 Connect with me
 
@@ -78,6 +79,7 @@
 </p>
 
 ---
+
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 🌟 **Star this repo if you like my profile!** ⭐
