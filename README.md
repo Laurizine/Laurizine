@@ -77,6 +77,6 @@
 
 ---
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv?si=fb52b0382fe1443c)
 
 🌟 **Star this repo if you like my profile!** ⭐
