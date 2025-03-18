@@ -78,4 +78,6 @@
 </p>
 
 ---
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+
 🌟 **Star this repo if you like my profile!** ⭐
