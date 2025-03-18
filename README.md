@@ -43,7 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Curtis)
 
 ---
 🌟 **Star this repo if you like my profile!** ⭐
