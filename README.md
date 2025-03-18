@@ -9,6 +9,8 @@
 </h1>
 
 ![Banner](https://raw.githubusercontent.com/khoa083/khoa/main/Khoa.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=800&lines=Hello+there!+👋;Welcome+to+my+GitHub!+🚀;I+love+Data+Science+and+Programming!;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=600&lines=Hello+there!+👋;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
@@ -46,6 +48,11 @@
 ### 🔗 Other Tools:
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Curtis&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Curtis&theme=react-dark)
+
 
 ## 📫 Connect with me
 
