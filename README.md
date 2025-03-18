@@ -22,8 +22,14 @@
 
 ---
 
+## 🎵 Now Playing on Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_USERNAME&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_USERNAME)
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=radical)
+
 ---
 
 ## 🛠 Skills & Tools
@@ -76,7 +82,5 @@
 </p>
 
 ---
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv?si=fb52b0382fe1443c)
 
 🌟 **Star this repo if you like my profile!** ⭐
