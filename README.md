@@ -23,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Curtis&theme=react-dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Curtis&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🛠 Skills & Tools
