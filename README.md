@@ -1,10 +1,10 @@
-# Hi there, I'm LiteraturePro! 👋
+# Hi there, I'm Curtis! 👋
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2400ff, #7a00ff);
                -webkit-background-clip: text;
                color: transparent;">
-    Welcome to My GitHub! 🚀🔥
+    Welcome to My GitHub! 🚀✨
   </span>
 </h1>
 
@@ -13,21 +13,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=600&lines=Hello+there!+👋;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-- 🌱 I'm currently learning **Machine Learning & Web Development**
-- 💬 Ask me about **Python, Django, Data Science**
-- ⚡ Fun fact: I love coding while listening to 🎵 lo-fi music.
+- 🌱 I'm currently learning **Data Science & Software Development**
+- 💬 Ask me about **C++, Python, Databases, and Data Visualization**
+- ⚡ Fun fact: I love solving complex problems with simple solutions. 🧠
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiteraturePro&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=radical)
 
 ## 🛠 Skills & Tools
+### 💻 Programming Languages:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data & Visualization:
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### 🗄 Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 IDEs & Editors:
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔗 Other Tools:
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/LiteraturePro)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Curtis)
 
 ---
 🌟 **Star this repo if you like my profile!** ⭐
