@@ -8,7 +8,8 @@
   </span>
 </h1>
 
-![Banner](https://media.giphy.com/media/l3vR3z8jS7DyoHkzO/giphy.gif)
+![Banner](https://raw.githubusercontent.com/khoa083/khoa/main/Khoa.gif)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=600&lines=Hello+there!+👋;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
