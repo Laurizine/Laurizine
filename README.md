@@ -66,7 +66,5 @@
   </a>
 </p>
 
-If Discord link doesn't work: 🔳
-
 ---
 🌟 **Star this repo if you like my profile!** ⭐
