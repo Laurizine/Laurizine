@@ -1,53 +1,76 @@
-<h1 align="center">Curtis | Data Analyst 🚀</h1>
+<h1 align="center">Curtis | Data & Marketing Strategist 🚀</h1>
 
 <p align="center">
-  <b>Turning Data into Insights – Insights into Decisions</b>
+  <b>Where Data meets Creativity.</b><br/>
+  Turning Analytics into Marketing Impact.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curtis&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curtis&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Focus: **Data Analysis & Business Intelligence**
-- 📊 Strong interest in dashboards & decision-making systems
-- 🧠 Mindset: Simplify complexity – Deliver measurable impact
-- 🔍 Currently exploring: Advanced analytics & scalable data workflows
+🎯 I work at the intersection of:
+
+- 📊 **Data Analysis**
+- 📢 **Marketing Strategy**
+- 📱 **Social Media Performance**
+
+I believe marketing without data is guessing —  
+and data without action is wasted potential.
+
+---
+
+## 🔥 Core Strengths
+
+### 📊 Data Analytics
+- Dashboard building (Power BI, Excel)
+- Data cleaning & transformation
+- KPI tracking & performance analysis
+- SQL-based reporting
+
+### 📢 Marketing
+- Funnel analysis (Awareness → Conversion)
+- Campaign performance tracking
+- Customer behavior insights
+- Basic branding strategy
+
+### 📱 Social Media
+- Content performance analytics
+- Engagement rate optimization
+- Growth strategy testing
+- Trend & audience behavior tracking
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📊 Data & BI
+### Analytics & BI
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 💻 Programming
+### Data & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### Marketing & Social Tools
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=flat&logo=facebook&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 ---
 
-## 📈 What I’m Building
+## 📈 Current Focus
 
-- 📌 Business dashboards with actionable KPIs  
-- 📌 Data cleaning & transformation workflows  
-- 📌 Insight-driven reporting systems  
+- Building data-backed marketing dashboards  
+- Designing measurable social growth systems  
+- Connecting engagement metrics to business outcomes  
 
 ---
 
@@ -65,5 +88,5 @@
 ---
 
 <p align="center">
-  <i>Data is not just numbers — it's strategic leverage.</i>
+  <i>Data is power. Marketing is leverage. Together, they scale impact.</i>
 </p>
