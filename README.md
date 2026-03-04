@@ -1,7 +1,7 @@
-<h1 align="center">Curtis | Data & Performance Marketing 🚀</h1>
+<h1 align="center">Curtis | Data & Growth Engineer 🚀</h1>
 
 <p align="center">
-  <b>Data-driven decisions. Performance-focused growth.</b>
+  <b>Data • Marketing • Automation • Web Systems</b>
 </p>
 
 <p align="center">
@@ -11,69 +11,81 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
 I work at the intersection of:
 
-- 📊 Data Analysis  
-- 📈 Performance Marketing  
-- 📱 Social Media Optimization  
+- 📊 Data Analytics
+- 📈 Performance Marketing
+- 💻 Backend Development
+- 📱 Digital Content Systems
 
-I focus on measuring what matters and optimizing what performs.
+I focus on building measurable growth systems — not just campaigns.
 
 ---
 
 ## 🔥 Core Capabilities
 
-### 📊 Data Analytics
-- Dashboard building (Power BI, Excel)
-- KPI tracking & performance reporting
-- SQL-based analysis
-- Data cleaning & transformation
+### 📊 Data & Analytics
+- Power BI dashboards
+- KPI & campaign performance tracking
+- SQL data analysis
+- Data cleaning & transformation (Python)
 
 ---
 
 ### 📈 Performance Marketing
-- Google Ads campaign setup & optimization  
-- TikTok Ads performance testing  
-- Basic SEO (on-page & keyword research)  
-- Funnel & conversion tracking  
+- Google Ads optimization
+- TikTok Ads testing & scaling
+- Basic SEO (on-page & keyword research)
+- Funnel & conversion analysis
 
 ---
 
-### 🎬 Creative & Content Tools
-- CapCut video editing  
-- Canva visual design  
-- Social content performance analysis  
+### 💻 Programming
+- Python (data processing, backend logic)
+- C++ (basic problem solving & OOP foundation)
+- Automation scripts
+
+---
+
+### 🌐 Web Development
+- Django (full-stack web applications)
+- Flask (lightweight backend services & APIs)
+- Basic REST API integration
 
 ---
 
 ## 🧰 Tech Stack
 
-### Analytics
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-### Marketing
+### Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### Analytics & Marketing
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
 ![TikTok Ads](https://img.shields.io/badge/TikTok%20Ads-000000?style=flat&logo=tiktok&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=flat)
 
-### Creative
+### Creative Tools
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Direction
 
-- Connecting ad spend to measurable ROI  
-- Improving conversion rate through data  
-- Scaling campaigns with structured testing  
+- Connecting marketing data to backend systems  
+- Automating reporting workflows  
+- Building small-scale web tools for analytics & growth  
 
 ---
 
 <p align="center">
-  <i>Marketing is experimentation. Data makes it predictable.</i>
+  <i>Growth is engineered. Data makes it scalable.</i>
 </p>
