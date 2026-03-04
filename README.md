@@ -1,86 +1,69 @@
-# Hi there, I'm Curtis! 👋
+<h1 align="center">Curtis | Data Analyst 🚀</h1>
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2400ff, #7a00ff);
-               -webkit-background-clip: text;
-               color: transparent;">
-    Welcome to My GitHub! 🚀✨
-  </span>
-</h1>
+<p align="center">
+  <b>Turning Data into Insights – Insights into Decisions</b>
+</p>
 
-![Banner](https://raw.githubusercontent.com/khoa083/khoa/main/Khoa.gif)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=800&lines=Hello+there!+👋;Welcome+to+my+GitHub!+🚀;I+love+Data+Science+and+Programming!;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curtis&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🌱 I'm currently learning **Data Science & Software Development**
-- 💬 Ask me about **C++, Python, Databases, and Data Visualization**
-- ⚡ Fun fact: I love solving complex problems with simple solutions. 🧠
-- 🎶 **Favorite Song:** [Intentions by Starfall](https://open.spotify.com/search/intentions%20starfall)
+## 👨‍💻 About Me
+
+- 🎯 Focus: **Data Analysis & Business Intelligence**
+- 📊 Strong interest in dashboards & decision-making systems
+- 🧠 Mindset: Simplify complexity – Deliver measurable impact
+- 🔍 Currently exploring: Advanced analytics & scalable data workflows
 
 ---
 
-## 🎵 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_USERNAME&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_USERNAME)
+## 🧰 Tech Stack
+
+### 📊 Data & BI
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curtis&show_icons=true&theme=radical)
+## 📈 What I’m Building
+
+- 📌 Business dashboards with actionable KPIs  
+- 📌 Data cleaning & transformation workflows  
+- 📌 Insight-driven reporting systems  
 
 ---
 
-## 🛠 Skills & Tools
+## 🌐 Connect
 
-### 💻 Programming Languages:
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data & Visualization:
-- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-### 🗄 Databases:
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🔧 IDEs & Editors:
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-### 🔗 Other Tools:
-- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📫 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.instagram.com/curtis_0204/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/curtis_0204/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/duy.luongvan.39566/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://www.facebook.com/duy.luongvan.39566/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-🌟 **Star this repo if you like my profile!** ⭐
+<p align="center">
+  <i>Data is not just numbers — it's strategic leverage.</i>
+</p>
